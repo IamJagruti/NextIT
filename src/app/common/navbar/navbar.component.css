@@ -1,0 +1,17 @@
+.navstyle{
+    color: #ffffff;
+    font-weight: 500;
+padding: 0;
+margin: 0;
+}
+
+.navstyle1{
+    color: black;
+    font-weight: 500;
+
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0; /* remove the gap so it doesn't close */
+}
